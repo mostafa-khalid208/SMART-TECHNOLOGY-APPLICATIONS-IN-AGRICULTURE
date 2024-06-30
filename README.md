@@ -1,6 +1,7 @@
 # SMART-TECHNOLOGY-APPLICATIONS-IN-AGRICULTURE
 
-![Mobile application interface](https://github.com/mostafa-khalid208/SMART-TECHNOLOGY-APPLICATIONS-IN-AGRICULTURE/assets/82661468/f99b3676-22ec-4282-a40a-b1a45625312d)
+![Mobile application interface](https://github.com/mostafa-khalid208/SMART-TECHNOLOGY-APPLICATIONS-IN-AGRICULTURE/assets/82661468/41c0dcce-aba6-4d7f-adec-d70652abd570)
+
 
 In the ever-changing world of farming, smart agricultural systems have emerged as game-changers, using fancy tech to tackle big challenges like feeding a growing global population while being kind to the planet. This graduation project book is your go-to guide to understand and dive deep into these innovative farming solutions.
 
