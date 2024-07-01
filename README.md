@@ -5,12 +5,21 @@
 
 In the ever-changing world of farming, smart agricultural systems have emerged as game-changers, using fancy tech to tackle big challenges like feeding a growing global population while being kind to the planet. This graduation project book is your go-to guide to understand and dive deep into these innovative farming solutions.
 
-[Link to the repository](https://github.com/mostafa-khalid208/SMART-TECHNOLOGY-APPLICATIONS-IN-AGRICULTURE/assets/82661468/7f68ae37-31fc-4851-8c73-d759775b5074)
+![Create   Login](https://github.com/mostafa-khalid208/SMART-TECHNOLOGY-APPLICATIONS-IN-AGRICULTURE/assets/82661468/9f83da8c-e679-408b-81a0-1ef6ef9a4908)
+
+![Additional pages in the project](https://github.com/mostafa-khalid208/SMART-TECHNOLOGY-APPLICATIONS-IN-AGRICULTURE/assets/82661468/2df09314-efe3-4666-8f03-49a67d71ffed)
+
 
 We'll take you on a tour of the cool tech behind smart agriculture, from building mobile apps with Flutter to using AI for making smart decisions and managing data in the Cloud. You'll get hands-on with hardware like ESP32 and IoT devices, learning how they collect data and automate tasks on the farm.
 
 
-[Link to the repository]( https://github.com/mostafa-khalid208/SMART-TECHNOLOGY-APPLICATIONS-IN-AGRICULTURE/assets/82661468/7f68ae37-31fc-4851-8c73-d759775b5074](https://github.com/mostafa-khalid208/SMART-TECHNOLOGY-APPLICATIONS-IN-AGRICULTURE/assets/82661468/9e42e476-6548-431d-8b33-0e39d8d1d991](https://github.com/mostafa-khalid208/SMART-TECHNOLOGY-APPLICATIONS-IN-AGRICULTURE/assets/82661468/85642673-97ed-42c3-8cde-f8ef13dfc1e3 )
+![Diagram_1](https://github.com/mostafa-khalid208/SMART-TECHNOLOGY-APPLICATIONS-IN-AGRICULTURE/assets/82661468/a7330b3e-c02d-422e-944a-cefb536f444a)
+
+![Diagram_2](https://github.com/mostafa-khalid208/SMART-TECHNOLOGY-APPLICATIONS-IN-AGRICULTURE/assets/82661468/26ee3fb1-363f-48a4-956e-a081288cba3e)
+
+![Sensor reading page](https://github.com/mostafa-khalid208/SMART-TECHNOLOGY-APPLICATIONS-IN-AGRICULTURE/assets/82661468/c2adcf79-d79b-4123-900b-2e0acb359ad8)
+
+
 
 But it's not all theory—get ready to roll up your sleeves and put these ideas into action. We'll show you how smart irrigation systems work, using sensors and AI to water crops just right. Plus, you'll learn how AI can spot plant diseases early, helping farmers protect their harvests and boost productivity.
 
