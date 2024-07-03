@@ -32,6 +32,12 @@ But it's not all theory—get ready to roll up your sleeves and put these ideas 
 
 ![Chat page with artificial intelligence](https://github.com/mostafa-khalid208/SMART-TECHNOLOGY-APPLICATIONS-IN-AGRICULTURE/assets/82661468/564b3401-1e33-41fe-96ea-d2e192215679)
 
+
+[Artificial intelligence (AI) Chat & Image (Practical application ) ]( https://youtu.be/XoeHMlaQuq4 )
+
+
+[Full in-app AI experience ]( https://youtube.com/shorts/PL40P1889J8 )
+
 We won't just stop at building cool stuff; We'll also talk about how to measure success. We'll look at how these systems increase crop yields, save resources, and make farming more sustainable. And we'll dive into how they're making a real difference in food security and protecting our environment.
 
 But we're not done yet—get ready to peer into the future of farming. We'll explore exciting new technology like 5G, fog computing, and the Internet of Everything, and how they'll shape the farms of tomorrow. And we'll discuss how renewable energy, virtual reality, and more will play a role in making farming even smarter.
