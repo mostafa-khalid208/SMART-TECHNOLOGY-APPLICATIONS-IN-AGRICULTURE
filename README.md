@@ -23,6 +23,7 @@ We'll take you on a tour of the cool tech behind smart agriculture, from buildin
 ![Sensor reading page](https://github.com/mostafa-khalid208/SMART-TECHNOLOGY-APPLICATIONS-IN-AGRICULTURE/assets/82661468/c2adcf79-d79b-4123-900b-2e0acb359ad8)
 
 
+[Sensors & Microcontroller ( Practical application ) ]( https://youtu.be/qTxyqkGCsHM )
 
 But it's not all theory—get ready to roll up your sleeves and put these ideas into action. We'll show you how smart irrigation systems work, using sensors and AI to water crops just right. Plus, you'll learn how AI can spot plant diseases early, helping farmers protect their harvests and boost productivity.
 
