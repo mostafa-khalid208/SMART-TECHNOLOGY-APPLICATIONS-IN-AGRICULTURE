@@ -47,6 +47,8 @@ But we're not done yet—get ready to peer into the future of farming. We'll exp
 ![Solar System](https://github.com/mostafa-khalid208/SMART-TECHNOLOGY-APPLICATIONS-IN-AGRICULTURE/assets/82661468/f718da0f-b1a3-4026-bf02-c33d213cd0e3)
 
 
+[Firebase & FireStore (Practical application ) ]( https://youtu.be/0Hn9pTRTNbc )
+
 By bringing together the latest research and hands-on practices, this project is your ticket to understanding and creating the future of farming. Whether you're a student looking to dive into smart agriculture or a researcher pushing the boundaries of what's possible, this project is your roadmap to a greener, more efficient future in farming.
 
 ![the graduation project](https://github.com/mostafa-khalid208/SMART-TECHNOLOGY-APPLICATIONS-IN-AGRICULTURE/assets/82661468/a739ce60-c9be-4d9d-aee5-fb2f6b93c48b)
