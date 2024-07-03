@@ -53,3 +53,11 @@ By bringing together the latest research and hands-on practices, this project is
 
 ![the graduation project](https://github.com/mostafa-khalid208/SMART-TECHNOLOGY-APPLICATIONS-IN-AGRICULTURE/assets/82661468/a739ce60-c9be-4d9d-aee5-fb2f6b93c48b)
 
+
+[Smart Irrigation System (Final practical application of the graduation project ) ]( https://youtube.com/shorts/qQlA1rqxmsU?feature=shared )
+
+
+[Full mobile app experience ]( https://youtu.be/DmjhwGzqkdA?feature=shared )
+
+
+
