@@ -10,7 +10,7 @@ In the ever-changing world of farming, smart agricultural systems have emerged a
 ![Additional pages in the project](https://github.com/mostafa-khalid208/SMART-TECHNOLOGY-APPLICATIONS-IN-AGRICULTURE/assets/82661468/2df09314-efe3-4666-8f03-49a67d71ffed)
 
 
-![Create & Login Account (Practical application ) ]( https://youtu.be/F7y6CJShDI8 )
+[Create & Login Account (Practical application ) ]( https://youtu.be/F7y6CJShDI8 )
 
 
 We'll take you on a tour of the cool tech behind smart agriculture, from building mobile apps with Flutter to using AI for making smart decisions and managing data in the Cloud. You'll get hands-on with hardware like ESP32 and IoT devices, learning how they collect data and automate tasks on the farm.
